@@ -140,6 +140,7 @@ body {
   padding-bottom: 20%;
   flex-shrink: 0;
   border-radius: 50%;
+  background-image: url('../images/ilbuni.gif');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
